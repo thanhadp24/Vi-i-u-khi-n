@@ -1,0 +1,28 @@
+Cảm biến ánh sáng: 
+- A0: A0
+- GND: GND
+- VCC: 5V
+
+Servo:
+- Dây nâu: GND
+- Dây đỏ: 5V
+- Dây cam/vàng: D9
+
+DC:
+HL298 vs Arduino:
+- N1: D7
+- N2: D6
+- ENA: D9
+- GND: GND
+HL298 vs Pin:
+- GND: cực âm
+- 12V: cực dương
+HL298 vs DC: 
+- OUTPUT1: 1 cực DC
+- OUTPUT2: cực còn lại
+
+Step:
+Pin vs ULN2003:
+- Dương: Dương
+- Âm: Âm
+ULN2003: IN1-IN4: D8-D11

@@ -1,0 +1,4 @@
+Cảm biến nđđa:
+- GND: GND
+- VCC: 5V
+- DAT: 4
